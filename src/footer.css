@@ -1,0 +1,10 @@
+footer {
+  padding-top: 20px;
+  clear: both;
+  background-image: linear-gradient(to right, #9a44b8, #f42f88, #ff6443, #f7ad00, #a8eb12);
+  margin-top: 32%;
+  height: 50px;
+  color:black;
+  font-weight: bolder;
+
+}
